@@ -17,7 +17,3 @@ const Card = (props) => {
 }
   
 export default Card;
- {/* <img src={props.imageUrl} alt={props.imageAlt} />
-      <h1 className="title">{props.title}</h1>
-      <p className="body">{props.body}</p>
-     <div className="extra-content">{props.children}</div> */}
