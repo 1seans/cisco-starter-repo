@@ -1,35 +1,5 @@
-
-/*  to get the data set to move side byy side would i have to put all of them in a different container...... Ex- header get iys own container, and eatch childern get its own container ans use gride or flex box */
-
-
-/* @media (max-width: 768px) {
-  .card-container {
-    flex-wrap: wrap; 
-  }
-  .card {
-    width: 100%; 
-  }
-} */
-
-
-
-/* @media (max-width: 600px) {
-  .heading{
-    width: 40%;
-  }
-}
-
-@media (max-width: 400px) {
-  .heading {
-    width: 20%;
-  }
-} */
-
-
 .exhibit{
   text-align: center;
-  /* padding-top: 50px; */
-  /* width: 50px; */
 }
 .card-container {
   display: flex; /* sets the container as a flex container */
@@ -74,15 +44,8 @@ padding-bottom: 10%;
 width: 100%;
 }
 
-/* .card .body {
-  padding: 0 20px;
-  font-size: 14px;
-} */
-
 .card-container button{
-  /* width: 100%; */
   padding: 5px;
-  /* background-color: #0096c7; */
   background-color: #8c8c8c;
   color: white;
   font-size: 12px;
@@ -116,17 +79,3 @@ a{
   padding: 5%;
 }
 
-
-/* .exhibit__contentv1{
-  display: flex;
-  flex: 1;
-  flex-direction: row; 
-  justify-content: space-between;
-}
-
-.exhibit__contentv2{
-    display: flex;
-    flex: 1;
-    flex-direction: row-reverse; 
-    justify-content: space-between; 
-} */
